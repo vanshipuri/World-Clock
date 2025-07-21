@@ -1,0 +1,19 @@
+ body {
+        font-family: Arial, sans-serif;
+        background-color: #ece6e6;
+        margin: 0;
+        padding: 20px;
+    }
+    h1{
+        font-size: 2rem;
+        text-align: center;
+        padding: auto;
+        color: #000000;
+        margin-top: 20px;
+    }
+    footer {
+        text-align: center;
+        font-size: 1rem;
+        color: #666;
+        margin-top: 20px;
+    }
