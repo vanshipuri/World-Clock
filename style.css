@@ -4,6 +4,53 @@
         margin: 0;
         padding: 20px;
     }
+
+    .container-1 {
+        max-width: 600px;
+        margin: 60px auto;
+        padding: 30px;
+        background-color: #ffffff;
+        border-radius: 10px;
+        box-shadow: 10 10px 10px rgba(0, 0, 0, 0.4);
+    }
+
+    select{
+        display:block;
+        width:100%;
+        font-size:14px;
+        padding:10px;
+        border-radius: 4px;
+        padding: 10px;
+    }
+    h2{
+        margin:0;
+        font-size: 20px;
+    }
+
+    .date{
+        opacity: 0.9;
+    }
+
+    .city {
+        display:flex;
+        justify-content: space-between;
+        margin: 20px 0;
+        justify-content: space-between;
+        padding:20px 0;
+        border-bottom: 1px dashed rgba(0, 0, 0, 0.4);
+    }
+
+    .time {
+        font-size: 26px;
+        font-weight: bold;
+    }
+
+    .time small {
+         font-size: 18px;
+         vertical-align: middle;
+         line-height: 30px;}
+        
+
     h1{
         font-size: 2rem;
         text-align: center;
