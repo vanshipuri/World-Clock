@@ -32,7 +32,15 @@ const cityTimeZoneMap = {
   moscow: "Europe/Moscow",
   cairo: "Africa/Cairo",
   rome: "Europe/Rome",
-  seoul: "Asia/Seoul"
+  seoul: "Asia/Seoul",
+  southkoria: "Asia/Seoul",
+  northkoria: "Asia/Pyongyang",
+  westindies: "America/Grand_Turk",
+  srilanka: "Asia/Colombo",
+  pakistan: "Asia/Karachi",
+  greece: "Europe/Athens",
+  hongkong: "Asia/Hong_Kong",
+ macao: "Asia/Macau"
 };
 
 function updateTime() {
