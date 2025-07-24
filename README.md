@@ -18,7 +18,7 @@ A responsive and interactive world clock web app that shows the current time in 
 
 ##  Preview
 
-![World Clock Preview](https://your-image-url.com/preview.png) 
+![World Clock Preview](Screenshot_24-7-2025_172035_.png) 
 ---
 
 ##  Tech Stack
