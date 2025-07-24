@@ -1,5 +1,7 @@
 #  World Clock - Built by Vanshi Puri
 
+**Hosted** [World Clock](https://world-clock-vanshi.netlify.app/)
+
 A responsive and interactive world clock web app that shows the current time in major cities like **Los Angeles**, **New York**, and **Paris** — with the ability to **search any city or country**, view **live time updates**, and track your **recent searches**!
 
 ---
